@@ -452,6 +452,10 @@ h1 {
     margin-bottom: 3rem;
     
 }
+#prerana{
+    background-color: #050709;
+    color: aliceblue;
+}
 
 #java {
     width: 10rem;
@@ -518,4 +522,41 @@ h1 {
         width: 30px;
         height: 30px;
     }
+
+
+    #para {
+        font-family: Arial, Helvetica, sans-serif;
+        color: aliceblue;
+        font-size: 12px;
+    }
+
+    #edu{
+        background-color: #050709;
+        color : aliceblue;
+        font-size: 12px;
+    
+
+
+}
+
+
+
+
+
+#left div div img{
+
+    width: 12rem;
+    height: auto;
+
+
+}
+#left,#right,#about{
+    height: 20rem;
+
+}
+
+
+
+
+    
 }
